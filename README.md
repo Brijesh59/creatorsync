@@ -1,6 +1,6 @@
 ## Product Requirement Specification (PRS) Document
 
-This Product Requirement Specification (PRS) outlines the development phases for a comprehensive platform designed to streamline video content creation, management, and distribution for YouTube content creators and other social media platforms. The platform aims to simplify the video editing process, enhance collaboration within teams, and provide tools for efficient video management and optimization.
+This Product Requirement Specification (PRS) outlines the development phases for a comprehensive platform designed to streamline video content creation, management, and distribution for YouTube content creators and other social media platforms. The platform aims to enhance collaboration within teams, and provide tools for efficient video management and optimization.
 
 ### Phase 1: Prototype POC
 
