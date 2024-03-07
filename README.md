@@ -55,12 +55,12 @@ Enhance the POC with advanced features including a refined UI design, authentica
 
 ##### AUTH
 
-- <strong>Feature</strong>Feature: Add authentication with signup/login functionality.
-- <strong>Methods</strong>Methods: Support email/password and social logins (Google, Facebook).
+- <strong>Feature</strong>: Add authentication with signup/login functionality.
+- <strong>Methods</strong>: Support email/password and social logins (Google, Facebook).
 
 ##### ROLE
 
-- <strong>Feature</strong>Feature: Define roles (editor, manager, admin, guest) with specific permissions.
+- <strong>Feature</strong>: Define roles (editor, manager, admin, guest) with specific permissions.
 - <strong>Access Control</strong>: Restrict or grant access to functionalities based on the user's role.
 
 ##### TEAM
@@ -70,12 +70,12 @@ Enhance the POC with advanced features including a refined UI design, authentica
 
 ##### VIDEO ACCESS
 
-- <strong>Feature</strong>Feature: Control access to videos at an individual or team level.
+- <strong>Feature</strong>: Control access to videos at an individual or team level.
 - <strong>Functionality</strong>: Video uploaders can specify who can view or edit videos.
 
 ##### Version Control for Video Projects
 
-- <strong>Feature</strong>Feature: Implement version control for edited videos.
+- <strong>Feature</strong>: Implement version control for edited videos.
 - <strong>Versioning</strong>: Automatically assign version numbers (v1, v2, etc.) to edited videos.
 
 ##### SOCIAL ACCOUNTS
